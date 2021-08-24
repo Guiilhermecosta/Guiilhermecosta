@@ -19,3 +19,7 @@
   ![Snake animation](https://github.com/Guiilhermecosta/Guiilhermecosta/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Guiilhermecosta&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+
+[//]: <> (End)
