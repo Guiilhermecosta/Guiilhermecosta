@@ -20,6 +20,6 @@
  
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=strongreen" alt="Hérika-Ströngreen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Guiilherme" alt="Guilherme-Costa" /> </p>
 
 [//]: <> (End)
