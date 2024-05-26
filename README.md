@@ -20,6 +20,6 @@
  
 </div>
 
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Guiilhermecosta&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=strongreen" alt="Hérika-Ströngreen" /> </p>
 
 [//]: <> (End)
