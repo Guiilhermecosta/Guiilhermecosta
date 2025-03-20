@@ -1,4 +1,4 @@
-## Olá! Eu sou o Guilherme C. Costa 👋
+## Hello, I'm Guilherme C. Costa 👋
 <hr>
 <div>
   <a href="https://github.com/Guiilhermecosta">
